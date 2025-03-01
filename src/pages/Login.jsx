@@ -28,11 +28,11 @@ export default function Login() {
 
                 <form className="mt-4 space-y-4">
                     <div>
-                        <label className="block text-gray-600 dark:text-gray-300">Correo Electrónico</label>
+                        <label className="block text-gray-600 dark:text-gray-300">Usuario</label>
                         <input
                             type="email"
                             className="w-full px-4 py-2 mt-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-                            placeholder="Ingresa tu correo"
+                            placeholder="Ingresa tu usuario"
                         />
                     </div>
 
